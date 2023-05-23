@@ -13,7 +13,7 @@ function App() {
   // const [user, setUser] = useState()
   const [user, setUser] = useState({
     displayName: "David Rakosi",
-    email: "david@cleverprogrammer.com",
+    email: "rafi37230@gmail.com",
     emailVerified: true,
     phoneNumber: null,
     photoURL: "https://lh6.googleusercontent.com/-KyLTWqvDIHQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcWGWqkt6YUAan32YO4CSR07Y2jw/s96-c/photo.jpg"
